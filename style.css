@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+
+
+
+
+h1{
+    color: floralwhite;
+}
+.block{
+height: 500px;
+width: 500px;
+background-color: rgb(255, 255, 255);
+
+ margin: 100px auto;
+}
+.box{
+    width: 150px;
+    height: 300px;
+    color: green;
+  
+}
+.box:nth-child(1){
+    color: green;
+    background-color: green;
+    
+}
+.box:nth-child(2){
+    color: red;
+    background-color: red;
+    
+}
+.block{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+   
+}
+.block-germany{
+    height: 510px;
+    width: 500px;
+    border: 1px solid black;
+    margin: 100px auto;
+
+}
+.title{
+    width: 500px;
+    height: 166px;
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+
+}
+
+.title.title_1{
+background-color: black; 
+}
+.title.title_2{
+    background-color: red;
+}
+.title.title_3{
+    background-color: rgb(255, 225, 0);
+}
+
+.block-russia{
+    height: 510px;
+    width: 500px;
+    border: 1px solid black;
+    margin: 100px auto;
+
+}
+.title{
+    width: 500px;
+    height: 166px;
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+
+}
+
+.title.title_4{
+background-color: rgb(255, 255, 255); 
+}
+.title.title_5{
+    background-color: rgb(13, 0, 255);
+}
+.title.title_6{
+    background-color: rgb(255, 0, 0);
+}
+.block-idn{
+    height: 510px;
+    width: 500px;
+    border: 1px solid black;
+    margin: 100px auto;
+
+}
+.title{
+    width: 500px;
+    height: 166px;
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+
+}
+
+.title.title_7{
+background-color: rgb(238, 255, 0); 
+}
+.title.title_8{
+    background-color: rgb(0, 255, 17);
+}
+.title.title_9{
+    background-color: rgb(255, 0, 0);
+}
+
